@@ -1,0 +1,7 @@
+AppData/
+NTUSER.DAT*
+.vscode/
+.VirtualBox/
+.DS_Store
+.ipynb_checkpoints/
+.idea/
